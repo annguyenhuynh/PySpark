@@ -1,0 +1,2 @@
+The ML using pyspark notebook used the popular housing dataset and basic Linear Regression ML model to predict house price based on multiple factors. 
+The purpose of the project is to show the effectiveness of using Pyspark for ML. In particular, Spark mllib has built-in libaries that can transform categorical data into numbers, and tranform feature and label variables into vectors and scale them before fitting in  the model. 
