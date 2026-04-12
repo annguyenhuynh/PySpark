@@ -1,0 +1,4 @@
+employee_id,department_id,name,age,gender,salary,hired_date
+7,101,James Johnson,42,Male,70000.0,2012-03-15
+8,102,Kate Kim,29,Female,51000.0,2019-10-01
+9,103,Tom Tan,33,Male,58000.0,2016-06-01

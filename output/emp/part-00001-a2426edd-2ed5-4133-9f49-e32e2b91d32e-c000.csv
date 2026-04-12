@@ -1,0 +1,2 @@
+employee_id,department_id,name,age,gender,salary,hired_date
+3,102,Bob Brown,35,Male,55000.0,2014-05-01
