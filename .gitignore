@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Spark
+metastore_db/
+spark-warehouse/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+.gitignore.bak.gitignore.bak
