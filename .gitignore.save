@@ -20,8 +20,3 @@ spark-warehouse/
 # macOS
 .DS_Store
 
-.gitignore.bak.gitignore.bak
-
-*.csv
-
-*.txt
