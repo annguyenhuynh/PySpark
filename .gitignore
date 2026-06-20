@@ -25,3 +25,5 @@ spark-warehouse/
 *.csv
 
 *.txt
+
+*.parquet
